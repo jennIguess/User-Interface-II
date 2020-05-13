@@ -134,6 +134,7 @@ body {
 }
 
 #header {
+    padding: 20px;
   display: flex;
   justify-content: space-between;
   margin-right: 30px;
