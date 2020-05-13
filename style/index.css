@@ -224,7 +224,8 @@ footer {
   background-color: maroon;
   font-size: 30px;
   text-align: center;
+  padding: 15px;
 }
 .foot {
-  margin: 15px;
+  margin-bottom: 15px;
 }
